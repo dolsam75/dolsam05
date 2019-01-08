@@ -6,6 +6,9 @@ public class Hello {
 		// dolsam75
 		System.out.println("HELLO");
 
+		//dolsam77
+		System.out.println("hello");
+		
 	}
 
 }
